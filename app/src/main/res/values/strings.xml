@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prove5</string>
+    <string name="ScriptureLabel">Enter Your Favorite Scripture</string>
+    <string name="Book">Book</string>
+    <string name="Chapter">Chapter</string>
+    <string name="Verse">Verse</string>
+    <string name="buttonSend">Send</string>
+    <string name="loadButton" >Load</string>
+    <string name="SaveButtonText">Save Scripture</string>
+</resources>
